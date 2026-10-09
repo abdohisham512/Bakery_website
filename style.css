@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.Bakerybanner{
+   background-image: url(./drew-coffman-1872.jpg);
+   background-size: 100% 100%;
+   height: 100vh; 
+   text-align: center;
+
+}
+
+.Bakerybanner-logo{
+    padding-top: 250px;
+    color: #fff;;
+    text-align: center;
+}
+.Bakerybanner-logo p{
+    font-size: 15px;
+}
+
+.Bakerybanner-logo h1{
+    font-size: 50px;
+}
+.btn{
+    border: none;
+    margin: 30px 5px;
+    padding: 20px 30px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.btn-tan{
+    background-color: tan;
+    
+}
+
+.Ourbaking{
+    padding: 100px;
+}
+
+.Ourbaking h1,p{
+    text-align: center;
+    padding: 20px;
+}
+
+.product{
+    
+    width: 33.3%;
+    text-align:center;
+    float: left;
+    
+
+}
+
+.product img{
+    width: 80%;
+    border-radius: 50%;
+    padding-bottom: 10px;
+}
+.clear-fix{
+    clear: both;
+}
+
+.navbar{
+    background-color: black;
+    padding: 0px 200px;
+}
+
+.navlogo{
+    float: left;
+}
+
+.navlogo img{
+    width: 150px;
+    padding-top: 5px;
+}
+
+.links{
+    float: right;
+
+}
+
+li{
+    display: inline-block;
+    font-size: 18px;
+    color: white;
+    padding: 15px 10px;
+    cursor: pointer;
+}
